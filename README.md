@@ -1,4 +1,5 @@
-# 📊 Sales Analytics Dashboard – Power BI Project
+# 📊 Insight Sphere Analytics
+Dashboard – Power BI Project
 
 This Power BI project presents a comprehensive analysis of retail sales performance across various states and cities. Using advanced DAX time intelligence and visual storytelling, we uncover key insights into revenue trends, discount impacts, and performance against sales targets.
 
